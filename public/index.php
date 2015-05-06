@@ -1,6 +1,6 @@
 <?php
 
-require_once __DIR__."/../src/Compromisso.php";
+require_once __DIR__."/../src/Agenda/Compromisso.php";
 
 $descricao = filter_input(INPUT_POST, "descricao");
 $data = filter_input(INPUT_POST, "data");
