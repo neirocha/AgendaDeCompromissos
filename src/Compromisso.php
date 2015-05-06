@@ -6,7 +6,7 @@
  * Time: 12:03
  */
 
-class Compromisso
+class Compromisso implements CompromissoInterface
 {
 
     protected $id;
